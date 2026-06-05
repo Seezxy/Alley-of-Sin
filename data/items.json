@@ -1,0 +1,7170 @@
+{
+  "items": {
+    "weapon_001": {
+      "id": "weapon_001",
+      "name": "至高的长剑",
+      "type": "weapon",
+      "rarity": "mythical",
+      "description": "一件至高的的长剑，拥有创世之力。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.05,
+        "max_hp": 1.5,
+        "crit_damage": 0.25,
+        "lifesteal": 0.05,
+        "dodge_chance": 0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 750,
+      "max_stack": 1
+    },
+    "armor_002": {
+      "id": "armor_002",
+      "name": "终极的活力袍",
+      "type": "armor",
+      "rarity": "mythical",
+      "description": "一件终极的的活力袍，拥有创世之力。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1.5,
+        "crit_damage": 0.25,
+        "damage_bonus": 0.05,
+        "dodge_chance": 0.05,
+        "lifesteal": 0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 750,
+      "max_stack": 1
+    },
+    "accessory_003": {
+      "id": "accessory_003",
+      "name": "绝对的项链",
+      "type": "accessory",
+      "rarity": "mythical",
+      "description": "一件绝对的的项链，拥有创世之力。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.05,
+        "lifesteal": 0.05,
+        "max_hp": 1.5,
+        "damage_bonus": 0.05,
+        "crit_rate": 0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 750,
+      "max_stack": 1
+    },
+    "weapon_004": {
+      "id": "weapon_004",
+      "name": "神话的短刀",
+      "type": "weapon",
+      "rarity": "legendary",
+      "description": "一件神话的的短刀，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1.4,
+        "damage_reduction": 0.04,
+        "crit_damage": 0.2,
+        "lifesteal": 0.04
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "weapon_005": {
+      "id": "weapon_005",
+      "name": "传说的棍棒",
+      "type": "weapon",
+      "rarity": "legendary",
+      "description": "一件传说的的棍棒，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.04,
+        "max_hp": 1.4,
+        "dodge_chance": 0.04,
+        "lifesteal": 0.04
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "armor_006": {
+      "id": "armor_006",
+      "name": "天界的生机袍",
+      "type": "armor",
+      "rarity": "legendary",
+      "description": "一件天界的的生机袍，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.2,
+        "lifesteal": 0.04,
+        "max_hp": 1.4,
+        "damage_bonus": 0.04
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "armor_007": {
+      "id": "armor_007",
+      "name": "不朽的护腕",
+      "type": "armor",
+      "rarity": "legendary",
+      "description": "一件不朽的的护腕，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.04,
+        "crit_damage": 0.2,
+        "damage_bonus": 0.04,
+        "crit_rate": 0.04
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "accessory_008": {
+      "id": "accessory_008",
+      "name": "天界的防御吊坠",
+      "type": "accessory",
+      "rarity": "legendary",
+      "description": "一件天界的的防御吊坠，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.04,
+        "lifesteal": 0.04,
+        "dodge_chance": 0.04,
+        "damage_bonus": 0.04
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "accessory_009": {
+      "id": "accessory_009",
+      "name": "神话的护符",
+      "type": "accessory",
+      "rarity": "legendary",
+      "description": "一件神话的的护符，传说中才存在。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.04,
+        "max_hp": 1.4,
+        "damage_bonus": 0.04,
+        "crit_damage": 0.2
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 400,
+      "max_stack": 1
+    },
+    "weapon_010": {
+      "id": "weapon_010",
+      "name": "不朽的吸血矛",
+      "type": "weapon",
+      "rarity": "epic",
+      "description": "一件不朽的的吸血矛，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.03,
+        "damage_bonus": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "weapon_011": {
+      "id": "weapon_011",
+      "name": "传奇的吸血剑",
+      "type": "weapon",
+      "rarity": "epic",
+      "description": "一件传奇的的吸血剑，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.03,
+        "damage_bonus": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "weapon_012": {
+      "id": "weapon_012",
+      "name": "不朽的短刀",
+      "type": "weapon",
+      "rarity": "epic",
+      "description": "一件不朽的的短刀，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.15,
+        "max_hp": 1.3
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "weapon_013": {
+      "id": "weapon_013",
+      "name": "史诗的巨锤",
+      "type": "weapon",
+      "rarity": "epic",
+      "description": "一件史诗的的巨锤，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.03,
+        "crit_damage": 0.15
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "armor_014": {
+      "id": "armor_014",
+      "name": "传奇的头盔",
+      "type": "armor",
+      "rarity": "epic",
+      "description": "一件传奇的的头盔，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.03,
+        "dodge_chance": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "armor_015": {
+      "id": "armor_015",
+      "name": "强大的全身甲",
+      "type": "armor",
+      "rarity": "epic",
+      "description": "一件强大的的全身甲，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.03,
+        "damage_bonus": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "armor_016": {
+      "id": "armor_016",
+      "name": "古老的生机甲",
+      "type": "armor",
+      "rarity": "epic",
+      "description": "一件古老的的生机甲，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.03,
+        "max_hp": 1.3
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "armor_017": {
+      "id": "armor_017",
+      "name": "永恒的胸甲",
+      "type": "armor",
+      "rarity": "epic",
+      "description": "一件永恒的的胸甲，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.15,
+        "damage_bonus": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "accessory_018": {
+      "id": "accessory_018",
+      "name": "史诗的手镯",
+      "type": "accessory",
+      "rarity": "epic",
+      "description": "一件史诗的的手镯，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1.3,
+        "lifesteal": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "accessory_019": {
+      "id": "accessory_019",
+      "name": "传奇的护符",
+      "type": "accessory",
+      "rarity": "epic",
+      "description": "一件传奇的的护符，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.03,
+        "max_hp": 1.3
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "accessory_020": {
+      "id": "accessory_020",
+      "name": "强大的力量吊坠",
+      "type": "accessory",
+      "rarity": "epic",
+      "description": "一件强大的的力量吊坠，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.03,
+        "crit_rate": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "accessory_021": {
+      "id": "accessory_021",
+      "name": "不朽的强攻徽章",
+      "type": "accessory",
+      "rarity": "epic",
+      "description": "一件不朽的的强攻徽章，蕴含强大力量。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.03,
+        "dodge_chance": 0.03
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 250,
+      "max_stack": 1
+    },
+    "weapon_022": {
+      "id": "weapon_022",
+      "name": "珍贵的战杖",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件珍贵的的战杖，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_023": {
+      "id": "weapon_023",
+      "name": "珍贵的长剑",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件珍贵的的长剑，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_024": {
+      "id": "weapon_024",
+      "name": "卓越的双节棍",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件卓越的的双节棍，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_025": {
+      "id": "weapon_025",
+      "name": "古老的重戟",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件古老的的重戟，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_026": {
+      "id": "weapon_026",
+      "name": "神秘的拳套",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件神秘的的拳套，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_027": {
+      "id": "weapon_027",
+      "name": "神秘的弓箭",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件神秘的的弓箭，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_028": {
+      "id": "weapon_028",
+      "name": "独特的拳套",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件独特的的拳套，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": 1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_029": {
+      "id": "weapon_029",
+      "name": "珍贵的战刃",
+      "type": "weapon",
+      "rarity": "rare",
+      "description": "一件珍贵的的战刃，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_030": {
+      "id": "armor_030",
+      "name": "神秘的活力袍",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件神秘的的活力袍，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "dodge_chance": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_031": {
+      "id": "armor_031",
+      "name": "稀有的腰带",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件稀有的的腰带，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_032": {
+      "id": "armor_032",
+      "name": "非凡的头盔",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件非凡的的头盔，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_033": {
+      "id": "armor_033",
+      "name": "稀有的生命甲",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件稀有的的生命甲，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_034": {
+      "id": "armor_034",
+      "name": "珍贵的手套",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件珍贵的的手套，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_reduction": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_035": {
+      "id": "armor_035",
+      "name": "珍贵的生命盾",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件珍贵的的生命盾，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_036": {
+      "id": "armor_036",
+      "name": "传奇的活力盔",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件传奇的的活力盔，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "armor_037": {
+      "id": "armor_037",
+      "name": "独特的头盔",
+      "type": "armor",
+      "rarity": "rare",
+      "description": "一件独特的的头盔，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_038": {
+      "id": "accessory_038",
+      "name": "珍贵的手镯",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件珍贵的的手镯，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_039": {
+      "id": "accessory_039",
+      "name": "传奇的灵巧手镯",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件传奇的的灵巧手镯，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_040": {
+      "id": "accessory_040",
+      "name": "卓越的攻击项链",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件卓越的的攻击项链，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "damage_reduction": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_041": {
+      "id": "accessory_041",
+      "name": "卓越的手镯",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件卓越的的手镯，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_042": {
+      "id": "accessory_042",
+      "name": "卓越的暴击戒指",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件卓越的的暴击戒指，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_043": {
+      "id": "accessory_043",
+      "name": "传奇的护符",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件传奇的的护符，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": 0.1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_044": {
+      "id": "accessory_044",
+      "name": "稀有的精准项链",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件稀有的的精准项链，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "accessory_045": {
+      "id": "accessory_045",
+      "name": "独特的徽章",
+      "type": "accessory",
+      "rarity": "rare",
+      "description": "一件独特的的徽章，非常珍贵。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 150,
+      "max_stack": 1
+    },
+    "weapon_046": {
+      "id": "weapon_046",
+      "name": "优良的弓箭",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件优良的的弓箭，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_047": {
+      "id": "weapon_047",
+      "name": "特制的巨镰",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件特制的的巨镰，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_048": {
+      "id": "weapon_048",
+      "name": "卓越的战刀",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件卓越的的战刀，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_049": {
+      "id": "weapon_049",
+      "name": "专业的棍棒",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件专业的的棍棒，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_050": {
+      "id": "weapon_050",
+      "name": "优良的噬血戟",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件优良的的噬血戟，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_051": {
+      "id": "weapon_051",
+      "name": "高级的重棍",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件高级的的重棍，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_052": {
+      "id": "weapon_052",
+      "name": "特制的法杖",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件特制的的法杖，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_053": {
+      "id": "weapon_053",
+      "name": "专业的弓箭",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件专业的的弓箭，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_054": {
+      "id": "weapon_054",
+      "name": "高级的长剑",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件高级的的长剑，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_055": {
+      "id": "weapon_055",
+      "name": "特制的拳套",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件特制的的拳套，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_056": {
+      "id": "weapon_056",
+      "name": "精锐的巨棒",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件精锐的的巨棒，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_057": {
+      "id": "weapon_057",
+      "name": "精锐的弓箭",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件精锐的的弓箭，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_058": {
+      "id": "weapon_058",
+      "name": "强化的法杖",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件强化的的法杖，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_059": {
+      "id": "weapon_059",
+      "name": "专业的法杖",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件专业的的法杖，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_060": {
+      "id": "weapon_060",
+      "name": "专业的战刀",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件专业的的战刀，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_061": {
+      "id": "weapon_061",
+      "name": "优良的巨棒",
+      "type": "weapon",
+      "rarity": "uncommon",
+      "description": "一件优良的的巨棒，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_062": {
+      "id": "armor_062",
+      "name": "标准的护腕",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件标准的的护腕，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_063": {
+      "id": "armor_063",
+      "name": "卓越的板甲",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件卓越的的板甲，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_064": {
+      "id": "armor_064",
+      "name": "精锐的头盔",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件精锐的的头盔，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_065": {
+      "id": "armor_065",
+      "name": "优良的靴子",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件优良的的靴子，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_066": {
+      "id": "armor_066",
+      "name": "专业的巨盾",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件专业的的巨盾，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_067": {
+      "id": "armor_067",
+      "name": "专业的靴子",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件专业的的靴子，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_068": {
+      "id": "armor_068",
+      "name": "专业的靴子",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件专业的的靴子，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_069": {
+      "id": "armor_069",
+      "name": "精锐的护腿",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件精锐的的护腿，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_070": {
+      "id": "armor_070",
+      "name": "标准的巨铠",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件标准的的巨铠，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_071": {
+      "id": "armor_071",
+      "name": "标准的护腕",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件标准的的护腕，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_072": {
+      "id": "armor_072",
+      "name": "精锐的头盔",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件精锐的的头盔，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_073": {
+      "id": "armor_073",
+      "name": "高级的生机甲",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件高级的的生机甲，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_074": {
+      "id": "armor_074",
+      "name": "卓越的靴子",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件卓越的的靴子，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_075": {
+      "id": "armor_075",
+      "name": "强化的巨铠",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件强化的的巨铠，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_076": {
+      "id": "armor_076",
+      "name": "优良的巨盾",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件优良的的巨盾，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "armor_077": {
+      "id": "armor_077",
+      "name": "专业的护腕",
+      "type": "armor",
+      "rarity": "uncommon",
+      "description": "一件专业的的护腕，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_078": {
+      "id": "accessory_078",
+      "name": "专业的手镯",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件专业的的手镯，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_079": {
+      "id": "accessory_079",
+      "name": "标准的防御戒指",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件标准的的防御戒指，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_080": {
+      "id": "accessory_080",
+      "name": "标准的护身护符",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件标准的的护身护符，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_081": {
+      "id": "accessory_081",
+      "name": "优良的重击项链",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件优良的的重击项链，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_082": {
+      "id": "accessory_082",
+      "name": "卓越的暴击戒指",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件卓越的的暴击戒指，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_083": {
+      "id": "accessory_083",
+      "name": "标准的饮血徽章",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件标准的的饮血徽章，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_084": {
+      "id": "accessory_084",
+      "name": "高级的噬魂项链",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件高级的的噬魂项链，性能优良。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_085": {
+      "id": "accessory_085",
+      "name": "精锐的项链",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件精锐的的项链，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_086": {
+      "id": "accessory_086",
+      "name": "精锐的强击耳环",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件精锐的的强击耳环，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_087": {
+      "id": "accessory_087",
+      "name": "卓越的宝石",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件卓越的的宝石，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_088": {
+      "id": "accessory_088",
+      "name": "高级的腰带",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件高级的的腰带，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_089": {
+      "id": "accessory_089",
+      "name": "高级的攻击项链",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件高级的的攻击项链，性能优良。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_090": {
+      "id": "accessory_090",
+      "name": "专业的手镯",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件专业的的手镯，性能优良。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_091": {
+      "id": "accessory_091",
+      "name": "高级的项链",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件高级的的项链，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_092": {
+      "id": "accessory_092",
+      "name": "专业的猛击徽章",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件专业的的猛击徽章，性能优良。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "accessory_093": {
+      "id": "accessory_093",
+      "name": "专业的宝石",
+      "type": "accessory",
+      "rarity": "uncommon",
+      "description": "一件专业的的宝石，性能优良。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 100,
+      "max_stack": 1
+    },
+    "weapon_094": {
+      "id": "weapon_094",
+      "name": "上等的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件上等的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.25,
+        "damage_reduction": 0.1,
+        "lifesteal": -0.025,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_095": {
+      "id": "weapon_095",
+      "name": "完美的战杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件完美的的战杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "crit_damage": -0.125,
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_096": {
+      "id": "weapon_096",
+      "name": "耐用的重戟",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的重戟，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": -0.025,
+        "max_hp": -0.25,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_097": {
+      "id": "weapon_097",
+      "name": "精良的弓箭",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的弓箭，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "max_hp": 1,
+        "damage_reduction": -0.025,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_098": {
+      "id": "weapon_098",
+      "name": "精致的重棍",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的重棍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "lifesteal": -0.025,
+        "crit_rate": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_099": {
+      "id": "weapon_099",
+      "name": "耐用的双节棍",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的双节棍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.25,
+        "damage_bonus": 0.1,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_100": {
+      "id": "weapon_100",
+      "name": "精良的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "max_hp": 1,
+        "crit_rate": -0.025,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_101": {
+      "id": "weapon_101",
+      "name": "坚固的弓箭",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件坚固的的弓箭，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "dodge_chance": 0.1,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_102": {
+      "id": "weapon_102",
+      "name": "优质的飞刀",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件优质的的飞刀，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "lifesteal": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_103": {
+      "id": "weapon_103",
+      "name": "耐用的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": 1,
+        "dodge_chance": -0.025,
+        "damage_bonus": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_104": {
+      "id": "weapon_104",
+      "name": "完美的重棍",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件完美的的重棍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "dodge_chance": -0.025,
+        "crit_damage": -0.125,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_105": {
+      "id": "weapon_105",
+      "name": "精致的长剑",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的长剑，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "damage_bonus": 0.1,
+        "crit_damage": -0.125,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_106": {
+      "id": "weapon_106",
+      "name": "完美的双节棍",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件完美的的双节棍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": -0.025,
+        "damage_bonus": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_107": {
+      "id": "weapon_107",
+      "name": "耐用的巨锤",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的巨锤，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_damage": 0.5,
+        "lifesteal": -0.025,
+        "damage_bonus": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_108": {
+      "id": "weapon_108",
+      "name": "精致的战槌",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的战槌，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": -0.25,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_109": {
+      "id": "weapon_109",
+      "name": "锋利的棍棒",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件锋利的的棍棒，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.025,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_110": {
+      "id": "weapon_110",
+      "name": "锋利的巨棒",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件锋利的的巨棒，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.025,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_111": {
+      "id": "weapon_111",
+      "name": "精良的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "crit_damage": 0.5,
+        "max_hp": 1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_112": {
+      "id": "weapon_112",
+      "name": "优质的战刀",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件优质的的战刀，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "max_hp": 1,
+        "damage_bonus": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_113": {
+      "id": "weapon_113",
+      "name": "精良的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": -0.025,
+        "crit_rate": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_114": {
+      "id": "weapon_114",
+      "name": "精良的拳套",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的拳套，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_115": {
+      "id": "weapon_115",
+      "name": "优质的长剑",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件优质的的长剑，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": -0.025,
+        "damage_bonus": 0.1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_116": {
+      "id": "weapon_116",
+      "name": "耐用的长矛",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的长矛，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": -0.025,
+        "dodge_chance": -0.025,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_117": {
+      "id": "weapon_117",
+      "name": "精致的重戟",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的重戟，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "lifesteal": -0.025,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_118": {
+      "id": "weapon_118",
+      "name": "精良的重斧",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的重斧，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": -0.025,
+        "dodge_chance": -0.025,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_119": {
+      "id": "weapon_119",
+      "name": "耐用的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "crit_rate": 0.1,
+        "lifesteal": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_120": {
+      "id": "weapon_120",
+      "name": "坚固的巨镰",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件坚固的的巨镰，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.025,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_121": {
+      "id": "weapon_121",
+      "name": "耐用的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件耐用的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "crit_damage": 0.5,
+        "max_hp": 1,
+        "damage_bonus": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_122": {
+      "id": "weapon_122",
+      "name": "坚固的法杖",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件坚固的的法杖，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "dodge_chance": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_123": {
+      "id": "weapon_123",
+      "name": "精致的棍棒",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的棍棒，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "max_hp": 1,
+        "damage_reduction": -0.025,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_124": {
+      "id": "weapon_124",
+      "name": "精良的巨棒",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精良的的巨棒，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": -0.025,
+        "crit_damage": -0.125,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_125": {
+      "id": "weapon_125",
+      "name": "精致的棍棒",
+      "type": "weapon",
+      "rarity": "fine",
+      "description": "一件精致的的棍棒，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.025,
+        "lifesteal": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_126": {
+      "id": "armor_126",
+      "name": "精良的活力铠",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精良的的活力铠，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_bonus": -0.025,
+        "lifesteal": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_127": {
+      "id": "armor_127",
+      "name": "完美的腰带",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的腰带，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "max_hp": -0.25,
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_128": {
+      "id": "armor_128",
+      "name": "上等的腰带",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的腰带，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "damage_reduction": -0.025,
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_129": {
+      "id": "armor_129",
+      "name": "锋利的护肩",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的护肩，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "crit_rate": -0.025,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_130": {
+      "id": "armor_130",
+      "name": "完美的活力袍",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的活力袍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "dodge_chance": -0.025,
+        "lifesteal": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_131": {
+      "id": "armor_131",
+      "name": "锋利的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "damage_bonus": 0.1,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_132": {
+      "id": "armor_132",
+      "name": "精致的护肩",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精致的的护肩，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "damage_bonus": 0.1,
+        "crit_rate": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_133": {
+      "id": "armor_133",
+      "name": "精致的手套",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精致的的手套，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "damage_reduction": 0.1,
+        "crit_damage": -0.125,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_134": {
+      "id": "armor_134",
+      "name": "耐用的生命甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件耐用的的生命甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": -0.125,
+        "lifesteal": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_135": {
+      "id": "armor_135",
+      "name": "完美的护肩",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的护肩，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.025,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_136": {
+      "id": "armor_136",
+      "name": "锋利的生机甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的生机甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "crit_rate": -0.025,
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_137": {
+      "id": "armor_137",
+      "name": "完美的生命盾",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的生命盾，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": -0.125,
+        "damage_reduction": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_138": {
+      "id": "armor_138",
+      "name": "上等的活力盔",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的活力盔，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "max_hp": 1,
+        "damage_reduction": -0.025,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_139": {
+      "id": "armor_139",
+      "name": "坚固的腰带",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件坚固的的腰带，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.25,
+        "crit_damage": 0.5,
+        "lifesteal": 0.1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_140": {
+      "id": "armor_140",
+      "name": "上等的护腿",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的护腿，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5,
+        "dodge_chance": -0.025,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_141": {
+      "id": "armor_141",
+      "name": "上等的靴子",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的靴子，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "damage_reduction": -0.025,
+        "crit_damage": 0.5,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_142": {
+      "id": "armor_142",
+      "name": "精致的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精致的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "crit_rate": -0.025,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_143": {
+      "id": "armor_143",
+      "name": "坚固的头盔",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件坚固的的头盔，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_rate": 0.1,
+        "dodge_chance": -0.025,
+        "damage_bonus": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_144": {
+      "id": "armor_144",
+      "name": "锋利的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "lifesteal": 0.1,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_145": {
+      "id": "armor_145",
+      "name": "完美的生命甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的生命甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.25,
+        "damage_bonus": -0.025,
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_146": {
+      "id": "armor_146",
+      "name": "精致的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精致的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "crit_rate": -0.025,
+        "damage_reduction": 0.1,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_147": {
+      "id": "armor_147",
+      "name": "精良的头盔",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精良的的头盔，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_148": {
+      "id": "armor_148",
+      "name": "耐用的胸甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件耐用的的胸甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.025,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_149": {
+      "id": "armor_149",
+      "name": "锋利的生机袍",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的生机袍，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_150": {
+      "id": "armor_150",
+      "name": "完美的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件完美的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": -0.125,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_151": {
+      "id": "armor_151",
+      "name": "上等的生命盾",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的生命盾，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "lifesteal": -0.025,
+        "crit_rate": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_152": {
+      "id": "armor_152",
+      "name": "精致的头盔",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件精致的的头盔，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_153": {
+      "id": "armor_153",
+      "name": "锋利的生机甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件锋利的的生机甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "max_hp": -0.25,
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_154": {
+      "id": "armor_154",
+      "name": "坚固的生命盾",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件坚固的的生命盾，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": -0.025,
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_155": {
+      "id": "armor_155",
+      "name": "上等的生命甲",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的生命甲，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "max_hp": -0.25,
+        "damage_reduction": -0.025,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_156": {
+      "id": "armor_156",
+      "name": "上等的生命铠",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件上等的的生命铠，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": -0.025,
+        "damage_reduction": -0.025,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "armor_157": {
+      "id": "armor_157",
+      "name": "优质的护腕",
+      "type": "armor",
+      "rarity": "fine",
+      "description": "一件优质的的护腕，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "lifesteal": 0.1,
+        "dodge_chance": -0.025,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_158": {
+      "id": "accessory_158",
+      "name": "耐用的宝石",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件耐用的的宝石，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.025,
+        "lifesteal": 0.1,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_159": {
+      "id": "accessory_159",
+      "name": "锋利的耳环",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的耳环，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": -0.025,
+        "max_hp": 1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_160": {
+      "id": "accessory_160",
+      "name": "精致的戒指",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的戒指，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.025,
+        "max_hp": 1,
+        "damage_reduction": 0.1,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_161": {
+      "id": "accessory_161",
+      "name": "精良的强击耳环",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精良的的强击耳环，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "lifesteal": 0.1,
+        "damage_bonus": -0.025,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_162": {
+      "id": "accessory_162",
+      "name": "上等的猛击护符",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件上等的的猛击护符，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": 0.1,
+        "lifesteal": -0.025,
+        "crit_rate": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_163": {
+      "id": "accessory_163",
+      "name": "精致的腰带",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的腰带，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": -0.025,
+        "damage_bonus": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_164": {
+      "id": "accessory_164",
+      "name": "完美的强击戒指",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件完美的的强击戒指，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": -0.025,
+        "dodge_chance": -0.025,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_165": {
+      "id": "accessory_165",
+      "name": "耐用的腰带",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件耐用的的腰带，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_166": {
+      "id": "accessory_166",
+      "name": "精致的耳环",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的耳环，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.025,
+        "crit_damage": 0.5,
+        "max_hp": 1,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_167": {
+      "id": "accessory_167",
+      "name": "锋利的项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "crit_rate": 0.1,
+        "max_hp": -0.25,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_168": {
+      "id": "accessory_168",
+      "name": "上等的项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件上等的的项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1,
+        "crit_damage": -0.125,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_169": {
+      "id": "accessory_169",
+      "name": "完美的灵巧宝石",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件完美的的灵巧宝石，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.025,
+        "lifesteal": -0.025,
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_170": {
+      "id": "accessory_170",
+      "name": "精良的徽章",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精良的的徽章，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": -0.125,
+        "damage_reduction": 0.1,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_171": {
+      "id": "accessory_171",
+      "name": "锋利的重击项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的重击项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "damage_bonus": 0.1,
+        "crit_damage": -0.125,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_172": {
+      "id": "accessory_172",
+      "name": "耐用的重击项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件耐用的的重击项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": -0.025,
+        "crit_damage": 0.5,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_173": {
+      "id": "accessory_173",
+      "name": "坚固的护符",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件坚固的的护符，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_damage": -0.125,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_174": {
+      "id": "accessory_174",
+      "name": "坚固的徽章",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件坚固的的徽章，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": 1,
+        "crit_damage": -0.125,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_175": {
+      "id": "accessory_175",
+      "name": "优质的手镯",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件优质的的手镯，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "crit_rate": 0.1,
+        "max_hp": 1,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_176": {
+      "id": "accessory_176",
+      "name": "坚固的重击项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件坚固的的重击项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.025,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_177": {
+      "id": "accessory_177",
+      "name": "精致的重击手镯",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的重击手镯，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.125,
+        "lifesteal": -0.025,
+        "dodge_chance": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_178": {
+      "id": "accessory_178",
+      "name": "精致的护符",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的护符，品质不错。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.25,
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1,
+        "dodge_chance": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_179": {
+      "id": "accessory_179",
+      "name": "精致的重击项链",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的重击项链，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": -0.025,
+        "dodge_chance": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_180": {
+      "id": "accessory_180",
+      "name": "坚固的敏捷护符",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件坚固的的敏捷护符，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_181": {
+      "id": "accessory_181",
+      "name": "上等的戒指",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件上等的的戒指，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_damage": -0.125,
+        "crit_rate": -0.025,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_182": {
+      "id": "accessory_182",
+      "name": "耐用的徽章",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件耐用的的徽章，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.025,
+        "max_hp": 1,
+        "lifesteal": -0.025,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_183": {
+      "id": "accessory_183",
+      "name": "优质的耳环",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件优质的的耳环，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "max_hp": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_184": {
+      "id": "accessory_184",
+      "name": "精良的强击吊坠",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精良的的强击吊坠，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": -0.125,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_185": {
+      "id": "accessory_185",
+      "name": "上等的耳环",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件上等的的耳环，品质不错。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": -0.25,
+        "crit_rate": 0.1,
+        "damage_bonus": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_186": {
+      "id": "accessory_186",
+      "name": "锋利的护符",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的护符，品质不错。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.025,
+        "crit_damage": -0.125,
+        "max_hp": 1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_187": {
+      "id": "accessory_187",
+      "name": "锋利的强击戒指",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的强击戒指，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.025,
+        "dodge_chance": 0.1,
+        "crit_damage": -0.125
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_188": {
+      "id": "accessory_188",
+      "name": "锋利的强击吊坠",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件锋利的的强击吊坠，品质不错。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.025,
+        "max_hp": -0.25,
+        "crit_damage": 0.5,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "accessory_189": {
+      "id": "accessory_189",
+      "name": "精致的猛击徽章",
+      "type": "accessory",
+      "rarity": "fine",
+      "description": "一件精致的的猛击徽章，品质不错。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.025,
+        "lifesteal": -0.025
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 75,
+      "max_stack": 1
+    },
+    "weapon_190": {
+      "id": "weapon_190",
+      "name": "破旧的重锤",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的重锤，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_191": {
+      "id": "weapon_191",
+      "name": "劣质的棍棒",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的棍棒，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1,
+        "crit_damage": -0.25,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_192": {
+      "id": "weapon_192",
+      "name": "劣质的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "damage_bonus": 0.1,
+        "max_hp": -0.5,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_193": {
+      "id": "weapon_193",
+      "name": "普通的短刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的短刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1,
+        "crit_damage": -0.25,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_194": {
+      "id": "weapon_194",
+      "name": "劣质的弓箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的弓箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "crit_rate": -0.05,
+        "damage_reduction": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_195": {
+      "id": "weapon_195",
+      "name": "磨损的法杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件磨损的的法杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05,
+        "max_hp": 1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_196": {
+      "id": "weapon_196",
+      "name": "脆弱的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "max_hp": 1,
+        "lifesteal": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_197": {
+      "id": "weapon_197",
+      "name": "粗糙的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": -0.05,
+        "crit_rate": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_198": {
+      "id": "weapon_198",
+      "name": "脆弱的战槌",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的战槌，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_damage": 0.5,
+        "max_hp": -0.5,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_199": {
+      "id": "weapon_199",
+      "name": "普通的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_200": {
+      "id": "weapon_200",
+      "name": "劣质的袖箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的袖箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_201": {
+      "id": "weapon_201",
+      "name": "劣质的短刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的短刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_202": {
+      "id": "weapon_202",
+      "name": "普通的弓箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的弓箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05,
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_203": {
+      "id": "weapon_203",
+      "name": "粗糙的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "dodge_chance": -0.05,
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_204": {
+      "id": "weapon_204",
+      "name": "劣质的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05,
+        "max_hp": 1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_205": {
+      "id": "weapon_205",
+      "name": "劣质的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_206": {
+      "id": "weapon_206",
+      "name": "简陋的重棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件简陋的的重棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_damage": 0.5,
+        "damage_bonus": 0.1,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_207": {
+      "id": "weapon_207",
+      "name": "生锈的弓箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的弓箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": -0.25,
+        "max_hp": 1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_208": {
+      "id": "weapon_208",
+      "name": "普通的战槌",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的战槌，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_209": {
+      "id": "weapon_209",
+      "name": "简陋的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件简陋的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "damage_reduction": -0.05,
+        "max_hp": 1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_210": {
+      "id": "weapon_210",
+      "name": "脆弱的夺命刺",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的夺命刺，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_211": {
+      "id": "weapon_211",
+      "name": "粗糙的影刃",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的影刃，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_rate": 0.1,
+        "dodge_chance": -0.05,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_212": {
+      "id": "weapon_212",
+      "name": "脆弱的战杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的战杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_213": {
+      "id": "weapon_213",
+      "name": "普通的法杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的法杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": -0.5,
+        "crit_damage": 0.5,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_214": {
+      "id": "weapon_214",
+      "name": "脆弱的战杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的战杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_215": {
+      "id": "weapon_215",
+      "name": "粗糙的短刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的短刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_216": {
+      "id": "weapon_216",
+      "name": "劣质的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_bonus": -0.05,
+        "max_hp": 1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_217": {
+      "id": "weapon_217",
+      "name": "脆弱的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "max_hp": 1,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_218": {
+      "id": "weapon_218",
+      "name": "普通的拳套",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的拳套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": -0.5,
+        "crit_rate": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_219": {
+      "id": "weapon_219",
+      "name": "简陋的拳套",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件简陋的的拳套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": -0.05,
+        "damage_bonus": -0.05,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_220": {
+      "id": "weapon_220",
+      "name": "生锈的棍棒",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的棍棒，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_221": {
+      "id": "weapon_221",
+      "name": "劣质的飞刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的飞刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_bonus": -0.05,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_222": {
+      "id": "weapon_222",
+      "name": "生锈的拳套",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的拳套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_223": {
+      "id": "weapon_223",
+      "name": "生锈的弓箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的弓箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1,
+        "max_hp": 1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_224": {
+      "id": "weapon_224",
+      "name": "劣质的战槌",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战槌，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_225": {
+      "id": "weapon_225",
+      "name": "脆弱的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "dodge_chance": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_226": {
+      "id": "weapon_226",
+      "name": "磨损的棍棒",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件磨损的的棍棒，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_bonus": -0.05,
+        "crit_damage": -0.25,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_227": {
+      "id": "weapon_227",
+      "name": "粗糙的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_228": {
+      "id": "weapon_228",
+      "name": "劣质的法杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的法杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": -0.5,
+        "damage_bonus": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_229": {
+      "id": "weapon_229",
+      "name": "劣质的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_230": {
+      "id": "weapon_230",
+      "name": "粗糙的巨锤",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的巨锤，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_231": {
+      "id": "weapon_231",
+      "name": "破旧的弓箭",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的弓箭，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05,
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_232": {
+      "id": "weapon_232",
+      "name": "脆弱的战杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的战杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": -0.05,
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_233": {
+      "id": "weapon_233",
+      "name": "生锈的短刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的短刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_234": {
+      "id": "weapon_234",
+      "name": "普通的巨斧",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的巨斧，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_235": {
+      "id": "weapon_235",
+      "name": "粗糙的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_236": {
+      "id": "weapon_236",
+      "name": "破旧的战斧",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的战斧，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "damage_bonus": 0.1,
+        "damage_reduction": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_237": {
+      "id": "weapon_237",
+      "name": "破旧的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_238": {
+      "id": "weapon_238",
+      "name": "磨损的迅剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件磨损的的迅剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_239": {
+      "id": "weapon_239",
+      "name": "普通的巨剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的巨剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.05,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_240": {
+      "id": "weapon_240",
+      "name": "劣质的短刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的短刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_241": {
+      "id": "weapon_241",
+      "name": "普通的战杖",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的战杖，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_242": {
+      "id": "weapon_242",
+      "name": "脆弱的长剑",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的长剑，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_bonus": 0.1,
+        "max_hp": -0.5,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_243": {
+      "id": "weapon_243",
+      "name": "普通的巨锤",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的巨锤，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_244": {
+      "id": "weapon_244",
+      "name": "破旧的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_245": {
+      "id": "weapon_245",
+      "name": "劣质的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件劣质的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_rate": -0.05,
+        "max_hp": 1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_246": {
+      "id": "weapon_246",
+      "name": "生锈的巨锤",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的巨锤，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "crit_rate": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_247": {
+      "id": "weapon_247",
+      "name": "简陋的战戟",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件简陋的的战戟，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_248": {
+      "id": "weapon_248",
+      "name": "磨损的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件磨损的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "lifesteal": 0.1,
+        "max_hp": 1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_249": {
+      "id": "weapon_249",
+      "name": "普通的战刀",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件普通的的战刀，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "lifesteal": 0.1,
+        "dodge_chance": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_250": {
+      "id": "weapon_250",
+      "name": "破旧的重斧",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件破旧的的重斧，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "dodge_chance": -0.05,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_251": {
+      "id": "weapon_251",
+      "name": "生锈的噬血戟",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件生锈的的噬血戟，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "dodge_chance": -0.05,
+        "lifesteal": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_252": {
+      "id": "weapon_252",
+      "name": "粗糙的巨棒",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件粗糙的的巨棒，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "dodge_chance": -0.05,
+        "lifesteal": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "weapon_253": {
+      "id": "weapon_253",
+      "name": "脆弱的双节棍",
+      "type": "weapon",
+      "rarity": "common",
+      "description": "一件脆弱的的双节棍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "max_hp": 1,
+        "crit_rate": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_254": {
+      "id": "armor_254",
+      "name": "劣质的护肩",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的护肩，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "lifesteal": -0.05,
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_255": {
+      "id": "armor_255",
+      "name": "脆弱的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": -0.05,
+        "lifesteal": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_256": {
+      "id": "armor_256",
+      "name": "磨损的腰带",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "damage_bonus": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_257": {
+      "id": "armor_257",
+      "name": "劣质的靴子",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的靴子，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_258": {
+      "id": "armor_258",
+      "name": "脆弱的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_259": {
+      "id": "armor_259",
+      "name": "劣质的生命甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的生命甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_260": {
+      "id": "armor_260",
+      "name": "生锈的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_261": {
+      "id": "armor_261",
+      "name": "生锈的腰带",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_262": {
+      "id": "armor_262",
+      "name": "磨损的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_263": {
+      "id": "armor_263",
+      "name": "破旧的腰带",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件破旧的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_264": {
+      "id": "armor_264",
+      "name": "粗糙的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_damage": 0.5,
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_265": {
+      "id": "armor_265",
+      "name": "脆弱的生机袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的生机袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "crit_damage": -0.25,
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_266": {
+      "id": "armor_266",
+      "name": "粗糙的头盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的头盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": -0.25,
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_267": {
+      "id": "armor_267",
+      "name": "生锈的护肩",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的护肩，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_268": {
+      "id": "armor_268",
+      "name": "生锈的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_rate": -0.05,
+        "max_hp": 1,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_269": {
+      "id": "armor_269",
+      "name": "脆弱的手套",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的手套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_rate": -0.05,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_270": {
+      "id": "armor_270",
+      "name": "简陋的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_271": {
+      "id": "armor_271",
+      "name": "劣质的生命铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的生命铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1,
+        "max_hp": -0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_272": {
+      "id": "armor_272",
+      "name": "生锈的手套",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的手套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_273": {
+      "id": "armor_273",
+      "name": "粗糙的护肩",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的护肩，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_274": {
+      "id": "armor_274",
+      "name": "磨损的布盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的布盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_275": {
+      "id": "armor_275",
+      "name": "磨损的靴子",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的靴子，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_276": {
+      "id": "armor_276",
+      "name": "磨损的头盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的头盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_277": {
+      "id": "armor_277",
+      "name": "普通的活力盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件普通的的活力盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "dodge_chance": 0.1,
+        "crit_rate": -0.05,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_278": {
+      "id": "armor_278",
+      "name": "磨损的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": -0.05,
+        "crit_damage": 0.5,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_279": {
+      "id": "armor_279",
+      "name": "破旧的靴子",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件破旧的的靴子，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_280": {
+      "id": "armor_280",
+      "name": "破旧的生命铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件破旧的的生命铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "max_hp": 1,
+        "dodge_chance": -0.05,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_281": {
+      "id": "armor_281",
+      "name": "普通的生命铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件普通的的生命铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_282": {
+      "id": "armor_282",
+      "name": "磨损的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "damage_reduction": 0.1,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_283": {
+      "id": "armor_283",
+      "name": "粗糙的手套",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的手套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": -0.5,
+        "dodge_chance": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_284": {
+      "id": "armor_284",
+      "name": "生锈的活力盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的活力盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_285": {
+      "id": "armor_285",
+      "name": "脆弱的生机袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的生机袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_damage": 0.5,
+        "max_hp": 1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_286": {
+      "id": "armor_286",
+      "name": "劣质的手套",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的手套，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_287": {
+      "id": "armor_287",
+      "name": "劣质的头盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的头盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.05,
+        "lifesteal": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_288": {
+      "id": "armor_288",
+      "name": "劣质的护腿",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的护腿，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_289": {
+      "id": "armor_289",
+      "name": "劣质的生命盾",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的生命盾，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1,
+        "max_hp": -0.5,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_290": {
+      "id": "armor_290",
+      "name": "劣质的活力盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的活力盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_291": {
+      "id": "armor_291",
+      "name": "劣质的生命盾",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的生命盾，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05,
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_292": {
+      "id": "armor_292",
+      "name": "粗糙的活力盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的活力盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": -0.05,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_293": {
+      "id": "armor_293",
+      "name": "普通的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件普通的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "max_hp": 1,
+        "lifesteal": -0.05,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_294": {
+      "id": "armor_294",
+      "name": "脆弱的斗篷",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的斗篷，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_295": {
+      "id": "armor_295",
+      "name": "劣质的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "damage_bonus": -0.05,
+        "dodge_chance": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_296": {
+      "id": "armor_296",
+      "name": "劣质的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": 1,
+        "crit_rate": -0.05,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_297": {
+      "id": "armor_297",
+      "name": "脆弱的生命甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的生命甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_rate": -0.05,
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_298": {
+      "id": "armor_298",
+      "name": "生锈的护腕",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的护腕，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "damage_bonus": -0.05,
+        "dodge_chance": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_299": {
+      "id": "armor_299",
+      "name": "简陋的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": -0.05,
+        "max_hp": 1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_300": {
+      "id": "armor_300",
+      "name": "脆弱的生命甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件脆弱的的生命甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "damage_reduction": -0.05,
+        "lifesteal": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_301": {
+      "id": "armor_301",
+      "name": "粗糙的圣甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的圣甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "damage_bonus": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_302": {
+      "id": "armor_302",
+      "name": "劣质的活力铠",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的活力铠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_303": {
+      "id": "armor_303",
+      "name": "生锈的头盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的头盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_304": {
+      "id": "armor_304",
+      "name": "简陋的护腕",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的护腕，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05,
+        "dodge_chance": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_305": {
+      "id": "armor_305",
+      "name": "粗糙的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件粗糙的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_bonus": -0.05,
+        "crit_damage": -0.25,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_306": {
+      "id": "armor_306",
+      "name": "生锈的靴子",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件生锈的的靴子，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_damage": 0.5,
+        "max_hp": -0.5,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_307": {
+      "id": "armor_307",
+      "name": "简陋的生命甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的生命甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "max_hp": 1,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_308": {
+      "id": "armor_308",
+      "name": "劣质的靴子",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的靴子，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "dodge_chance": -0.05,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_309": {
+      "id": "armor_309",
+      "name": "磨损的胸甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的胸甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "damage_bonus": 0.1,
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_310": {
+      "id": "armor_310",
+      "name": "劣质的腰带",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_damage": -0.25,
+        "damage_bonus": -0.05,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_311": {
+      "id": "armor_311",
+      "name": "磨损的腰带",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件磨损的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": -0.05,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_312": {
+      "id": "armor_312",
+      "name": "普通的护腕",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件普通的的护腕，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_313": {
+      "id": "armor_313",
+      "name": "简陋的活力盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的活力盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_314": {
+      "id": "armor_314",
+      "name": "简陋的生命甲",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的生命甲，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05,
+        "max_hp": 1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_315": {
+      "id": "armor_315",
+      "name": "简陋的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件简陋的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": -0.05,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_316": {
+      "id": "armor_316",
+      "name": "破旧的活力袍",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件破旧的的活力袍，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": 0.1,
+        "crit_rate": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "armor_317": {
+      "id": "armor_317",
+      "name": "劣质的头盔",
+      "type": "armor",
+      "rarity": "common",
+      "description": "一件劣质的的头盔，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": -0.05,
+        "dodge_chance": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_318": {
+      "id": "accessory_318",
+      "name": "劣质的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_319": {
+      "id": "accessory_319",
+      "name": "劣质的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "max_hp": 1,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_320": {
+      "id": "accessory_320",
+      "name": "粗糙的耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_321": {
+      "id": "accessory_321",
+      "name": "简陋的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_322": {
+      "id": "accessory_322",
+      "name": "脆弱的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_rate": -0.05,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_323": {
+      "id": "accessory_323",
+      "name": "脆弱的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "crit_rate": 0.1,
+        "lifesteal": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_324": {
+      "id": "accessory_324",
+      "name": "生锈的戒指",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件生锈的的戒指，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_rate": -0.05,
+        "max_hp": 1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_325": {
+      "id": "accessory_325",
+      "name": "简陋的宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": 0.1,
+        "crit_rate": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_326": {
+      "id": "accessory_326",
+      "name": "生锈的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件生锈的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": -0.5,
+        "dodge_chance": -0.05,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_327": {
+      "id": "accessory_327",
+      "name": "粗糙的护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_328": {
+      "id": "accessory_328",
+      "name": "磨损的腰带",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "crit_damage": 0.5,
+        "dodge_chance": -0.05,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_329": {
+      "id": "accessory_329",
+      "name": "简陋的手镯",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的手镯，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "max_hp": -0.5,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_330": {
+      "id": "accessory_330",
+      "name": "粗糙的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "crit_rate": 0.1,
+        "max_hp": -0.5,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_331": {
+      "id": "accessory_331",
+      "name": "脆弱的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_reduction": 0.1,
+        "max_hp": -0.5,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_332": {
+      "id": "accessory_332",
+      "name": "简陋的宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": -0.05,
+        "dodge_chance": -0.05,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_333": {
+      "id": "accessory_333",
+      "name": "劣质的戒指",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的戒指，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": -0.5,
+        "crit_rate": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_334": {
+      "id": "accessory_334",
+      "name": "普通的强击耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的强击耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "dodge_chance": 0.1,
+        "crit_damage": -0.25,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_335": {
+      "id": "accessory_335",
+      "name": "普通的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_336": {
+      "id": "accessory_336",
+      "name": "简陋的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1,
+        "lifesteal": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_337": {
+      "id": "accessory_337",
+      "name": "磨损的噬魂宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的噬魂宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "dodge_chance": -0.05,
+        "crit_rate": 0.1,
+        "damage_reduction": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_338": {
+      "id": "accessory_338",
+      "name": "粗糙的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "damage_bonus": -0.05,
+        "lifesteal": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_339": {
+      "id": "accessory_339",
+      "name": "磨损的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "dodge_chance": -0.05,
+        "lifesteal": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_340": {
+      "id": "accessory_340",
+      "name": "破旧的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件破旧的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1,
+        "damage_bonus": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_341": {
+      "id": "accessory_341",
+      "name": "普通的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_342": {
+      "id": "accessory_342",
+      "name": "破旧的强攻徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件破旧的的强攻徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "damage_reduction": -0.05,
+        "crit_rate": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_343": {
+      "id": "accessory_343",
+      "name": "磨损的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "max_hp": -0.5,
+        "crit_damage": -0.25,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_344": {
+      "id": "accessory_344",
+      "name": "粗糙的护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "max_hp": 1,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_345": {
+      "id": "accessory_345",
+      "name": "破旧的强攻护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件破旧的的强攻护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "lifesteal": -0.05,
+        "crit_rate": -0.05,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_346": {
+      "id": "accessory_346",
+      "name": "劣质的重击手镯",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的重击手镯，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "lifesteal": -0.05,
+        "crit_damage": -0.25,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_347": {
+      "id": "accessory_347",
+      "name": "普通的重击手镯",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的重击手镯，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": 0.1,
+        "crit_rate": -0.05,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_348": {
+      "id": "accessory_348",
+      "name": "劣质的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "damage_reduction": 0.1,
+        "lifesteal": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_349": {
+      "id": "accessory_349",
+      "name": "简陋的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "crit_rate": 0.1,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_350": {
+      "id": "accessory_350",
+      "name": "脆弱的强击耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的强击耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "damage_bonus": -0.05,
+        "damage_reduction": 0.1,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_351": {
+      "id": "accessory_351",
+      "name": "简陋的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_352": {
+      "id": "accessory_352",
+      "name": "磨损的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "dodge_chance": 0.1,
+        "max_hp": -0.5,
+        "damage_reduction": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_353": {
+      "id": "accessory_353",
+      "name": "磨损的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_354": {
+      "id": "accessory_354",
+      "name": "脆弱的徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_355": {
+      "id": "accessory_355",
+      "name": "破旧的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件破旧的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1,
+        "max_hp": 1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_356": {
+      "id": "accessory_356",
+      "name": "粗糙的猛击徽章",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的猛击徽章，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05,
+        "lifesteal": 0.1,
+        "crit_rate": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_357": {
+      "id": "accessory_357",
+      "name": "简陋的强击耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的强击耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_reduction": 0.1,
+        "max_hp": -0.5,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_358": {
+      "id": "accessory_358",
+      "name": "生锈的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件生锈的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": -0.05,
+        "lifesteal": 0.1,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_359": {
+      "id": "accessory_359",
+      "name": "普通的腰带",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": 1,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "crit_damage": -0.25
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_360": {
+      "id": "accessory_360",
+      "name": "脆弱的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_damage": 0.5,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_361": {
+      "id": "accessory_361",
+      "name": "生锈的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件生锈的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1,
+        "crit_damage": -0.25,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_362": {
+      "id": "accessory_362",
+      "name": "普通的护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": 0.1,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_363": {
+      "id": "accessory_363",
+      "name": "普通的敏捷护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的敏捷护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "dodge_chance": 0.1,
+        "damage_reduction": -0.05,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_364": {
+      "id": "accessory_364",
+      "name": "简陋的重击宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的重击宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1,
+        "dodge_chance": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_365": {
+      "id": "accessory_365",
+      "name": "磨损的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件磨损的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": 0.1,
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_366": {
+      "id": "accessory_366",
+      "name": "简陋的宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "max_hp": 1,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_367": {
+      "id": "accessory_367",
+      "name": "粗糙的项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "max_hp": -0.5,
+        "lifesteal": -0.05,
+        "damage_reduction": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_368": {
+      "id": "accessory_368",
+      "name": "破旧的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件破旧的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": -0.05,
+        "crit_damage": -0.25,
+        "damage_reduction": 0.1,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_369": {
+      "id": "accessory_369",
+      "name": "劣质的护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": -0.5,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_370": {
+      "id": "accessory_370",
+      "name": "普通的守护宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的守护宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "damage_reduction": 0.1,
+        "crit_rate": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_371": {
+      "id": "accessory_371",
+      "name": "普通的猛击护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的猛击护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": -0.05,
+        "dodge_chance": 0.1,
+        "damage_bonus": -0.05,
+        "crit_damage": 0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_372": {
+      "id": "accessory_372",
+      "name": "脆弱的护符",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的护符，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1,
+        "max_hp": -0.5
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_373": {
+      "id": "accessory_373",
+      "name": "脆弱的闪避吊坠",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的闪避吊坠，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "damage_bonus": -0.05,
+        "damage_reduction": -0.05,
+        "dodge_chance": 0.1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_374": {
+      "id": "accessory_374",
+      "name": "生锈的强击耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件生锈的的强击耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "damage_reduction": -0.05,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_375": {
+      "id": "accessory_375",
+      "name": "脆弱的宝石",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的宝石，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "lifesteal": 0.1,
+        "max_hp": -0.5,
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_376": {
+      "id": "accessory_376",
+      "name": "劣质的戒指",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件劣质的的戒指，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "dodge_chance": -0.05,
+        "crit_damage": -0.25,
+        "max_hp": 1,
+        "crit_rate": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_377": {
+      "id": "accessory_377",
+      "name": "简陋的重击手镯",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件简陋的的重击手镯，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "crit_rate": -0.05,
+        "damage_reduction": -0.05,
+        "damage_bonus": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_378": {
+      "id": "accessory_378",
+      "name": "脆弱的重击项链",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件脆弱的的重击项链，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "max_hp": -0.5,
+        "damage_reduction": 0.1,
+        "lifesteal": -0.05
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_379": {
+      "id": "accessory_379",
+      "name": "普通的强击耳环",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的强击耳环，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": 0.5,
+        "damage_bonus": -0.05,
+        "crit_rate": -0.05,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_380": {
+      "id": "accessory_380",
+      "name": "普通的腰带",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件普通的的腰带，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_damage": -0.25,
+        "damage_bonus": -0.05,
+        "max_hp": 1,
+        "lifesteal": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    },
+    "accessory_381": {
+      "id": "accessory_381",
+      "name": "粗糙的强击戒指",
+      "type": "accessory",
+      "rarity": "common",
+      "description": "一件粗糙的的强击戒指，勉强能用。",
+      "icon": "",
+      "attributes": {
+        "crit_rate": 0.1,
+        "lifesteal": -0.05,
+        "crit_damage": -0.25,
+        "dodge_chance": 0.1
+      },
+      "requirements": {
+        "level": 1
+      },
+      "value": 50,
+      "max_stack": 1
+    }
+  },
+  "item_types": {
+    "weapon": {
+      "name": "武器",
+      "slot": "weapon",
+      "description": "增加攻击属性的装备"
+    },
+    "armor": {
+      "name": "护甲",
+      "slot": "armor",
+      "description": "增加防御属性的装备"
+    },
+    "accessory": {
+      "name": "饰品",
+      "slot": "accessory",
+      "description": "提供特殊效果的装备"
+    }
+  },
+  "rarities": {
+    "common": {
+      "name": "普通",
+      "color": "#808080",
+      "sort_order": 1
+    },
+    "fine": {
+      "name": "精品",
+      "color": "#FFFFFF",
+      "sort_order": 2
+    },
+    "uncommon": {
+      "name": "优秀",
+      "color": "#4CAF50",
+      "sort_order": 3
+    },
+    "rare": {
+      "name": "罕见",
+      "color": "#2196F3",
+      "sort_order": 4
+    },
+    "epic": {
+      "name": "史诗",
+      "color": "#9C27B0",
+      "sort_order": 5
+    },
+    "legendary": {
+      "name": "传说",
+      "color": "#FFD700",
+      "sort_order": 6
+    },
+    "mythical": {
+      "name": "神话",
+      "color": "#FF0000",
+      "sort_order": 7
+    }
+  },
+  "equipment_slots": {
+    "weapon": {
+      "name": "武器",
+      "description": "主手武器，影响攻击属性"
+    },
+    "armor": {
+      "name": "护甲",
+      "description": "身体护甲，影响防御属性"
+    },
+    "accessory": {
+      "name": "饰品",
+      "description": "饰品装备，提供特殊效果"
+    }
+  }
+}
