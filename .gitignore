@@ -32,3 +32,6 @@ Thumbs.db
 
 # Dev mode flag (keep template but ignore local changes)
 # data/.dev_mode
+
+# Commit guide (personal reference, not for repo)
+COMMIT_GUIDE.md
