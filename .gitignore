@@ -30,8 +30,8 @@ Thumbs.db
 # Game data (user-specific, generated at runtime)
 *.dat
 
-# Dev mode flag (keep template but ignore local changes)
-# data/.dev_mode
+# Dev mode flag (local only, do not commit)
+data/.dev_mode
 
 # Commit guide (personal reference, not for repo)
 COMMIT_GUIDE.md
